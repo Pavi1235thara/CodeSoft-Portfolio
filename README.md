@@ -1,3 +1,3 @@
 
 Portfolio
-https://github.com/Pavi1235thara/CodeSoft-Portfolio.git
+ https://pavi1235thara.github.io/CodeSoft-Portfolio/
